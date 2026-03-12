@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!62 &6200000
+PhysicsMaterial2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u5F48\u529B\u7403\u4FC2\u6578"
+  serializedVersion: 2
+  friction: 0.4
+  bounciness: 1
+  m_FrictionCombine: 1
+  m_BounceCombine: 4
