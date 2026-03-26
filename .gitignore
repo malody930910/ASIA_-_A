@@ -99,3 +99,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 Assets/Scenes/SampleScene.unity.meta
 Assets/Scenes/Square 1.png
+Assets/NaikaiFont-Bold.ttf
+*.meta
